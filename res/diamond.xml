@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Gems>
+    <Gem id="1" preciousness="Precious">
+        <Name>Diamond</Name>
+        <Origin>Australia</Origin>
+        <VisualParameters>
+            <Color>Red</Color>
+            <Transparency>100</Transparency>
+            <Cut>8</Cut>
+        </VisualParameters>
+        <Value>1.5</Value>
+    </Gem>
+    <Gem id="2" preciousness="Semi-Precious">
+        <Name>Amethyst</Name>
+        <Origin>Brazil</Origin>
+        <VisualParameters>
+            <Color>Purple</Color>
+            <Transparency>80</Transparency>
+            <Cut>10</Cut>
+        </VisualParameters>
+        <Value>2.0</Value>
+    </Gem>
+    <Gem id="3" preciousness="Precious">
+        <Name>Ruby</Name>
+        <Origin>Canada</Origin>
+        <VisualParameters>
+            <Color>Red</Color>
+            <Transparency>90</Transparency>
+            <Cut>12</Cut>
+        </VisualParameters>
+        <Value>1.2</Value>
+    </Gem>
+</Gems>
